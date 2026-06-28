@@ -20,3 +20,23 @@ Key takeaways:
 - LoveLetter malware introduced social engineering at scale
 - Social engineering exploits human error, not technical vulnerabilities
 - Phishing is a form of social engineering
+
+**Day 3 - 28th June, 2026**
+
+Completed Module 2 - The evolution of cybersecurity.
+Graded challenge: 100%. Practice assignment: 100%.
+Started Module 3 - first section completed
+
+Key takeaways:
+- Early malware (Brain virus, Morris worm, LoveLetter) shaped how 
+  modern security teams operate
+- CISSP has 8 security domains covering everything from asset 
+  security to software development security
+- Different attack types target different domains
+- Threat actors have varying motivations and levels of sophistication
+- Covered security frameworks: NIST CSF, CIA Triad, 
+  security controls, and global laws protecting PII 
+  and medical records (HIPAA, GDPR etc.)
+
+Note: CISSP domains felt overwhelming at first glance. Will become 
+clearer as the course progresses.

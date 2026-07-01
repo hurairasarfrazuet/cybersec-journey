@@ -40,3 +40,22 @@ Key takeaways:
 
 Note: CISSP domains felt overwhelming at first glance. Will become 
 clearer as the course progresses.
+
+**Day 4 - 1st July, 2026**
+
+Completed Module 3 - Protect against threats, risks and 
+vulnerabilities. Graded challenge: 97.5%.
+
+Key takeaways:
+- Ethics in cybersecurity = personal obligation + organizational 
+  policy, especially around PII and SPII
+- PII = name, email, phone. SPII = financial, medical, biometric data
+- NIST CSF and security controls work together with legal frameworks
+- Security ethics guides decisions in complicated situations
+
+TryHackMe - Jr Security Analyst Intro room completed.
+- SOC team structure: Junior Analyst, Senior Analyst, SOC Engineer,
+  SOC Manager, Incident Responder
+- Completed practical: identified malicious IP, verified against 
+  threat intelligence, escalated to team lead, blocked the IP
+- Core SOC workflow: Detect, Investigate, Escalate, Respond

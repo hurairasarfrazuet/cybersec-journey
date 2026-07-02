@@ -59,3 +59,24 @@ TryHackMe - Jr Security Analyst Intro room completed.
 - Completed practical: identified malicious IP, verified against 
   threat intelligence, escalated to team lead, blocked the IP
 - Core SOC workflow: Detect, Investigate, Escalate, Respond
+
+
+**Day 5 - 2nd July, 2026**
+
+Completed Module 4 - Cybersecurity tools and programming languages.
+Course 1: Foundations of Cybersecurity - COMPLETE.
+
+Key takeaways:
+- Common tools used in Cybersecurity
+- SIEM tools (Splunk, Chronicle) collect and analyze log data in 
+  real time to help analysts identify potential breaches
+- Playbooks guide analysts through incident response procedures
+- Packet sniffers (tcpdump, Wireshark) capture and analyze 
+  network traffic
+- Linux used for log examination, SQL for database queries, 
+  Python for automating repetitive security tasks
+- Every organization's toolkit differs based on security needs
+
+TryHackMe - Careers in Cyber room reviewed and completed.
+
+Portfolio - Professional statement drafted and saved.

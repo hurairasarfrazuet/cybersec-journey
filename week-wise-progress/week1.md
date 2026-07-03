@@ -80,3 +80,29 @@ Key takeaways:
 TryHackMe - Careers in Cyber room reviewed and completed.
 
 Portfolio - Professional statement drafted and saved.
+
+
+**Day 6 - 3rd July, 2026**
+
+Started Course 2 - Play It Safe: Manage Security Risks.
+Completed Module 1 - Security Domains.
+
+Covered the CISSP 8 security domains in depth:
+1. Security and Risk Management - goals, compliance, business 
+   continuity, laws and regulations
+2. Asset Security - protecting physical and digital assets, 
+   proper data retention and destruction
+3. Security Architecture and Engineering - secure system design, 
+   tools, and security awareness
+4. Communication and Network Security - securing data in transit, 
+   encrypted communications, restricting risky practices
+5. Identity and Access Management - identification, authentication, 
+   authorization, least privilege access
+6. Security Assessment and Testing - finding vulnerabilities, 
+   backdoors and loopholes, generating reports, remediation
+7. Security Operations - post-incident response, investigation, 
+   risk mitigation and improvement
+8. Software Development Security - secure coding practices across 
+   design, development, and deployment phases
+
+Self-assessed via quiz - strong understanding across all 8 domains.

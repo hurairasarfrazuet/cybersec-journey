@@ -25,7 +25,7 @@ strangely named files on compromised systems
 ## Level 2
 **Goal:** Read a file named `spaces in this filename`
 **Command:**
-cat './spaces in this filename'
+cat './--spaces in this filename--'
 **Concept:** Handling filenames with spaces using quotes
 **Real world use:** Files with unusual names are sometimes used 
 to hide data on compromised systems
@@ -36,7 +36,7 @@ to hide data on compromised systems
 **Goal:** Find a hidden file inside the inhere directory
 **Command:**
 cd inhere
-ls -la
+ls -a
 cat ./...Hiding-From-You
 **Concept:** Hidden files in Linux start with a dot. 
 `ls -la` reveals them while plain `ls` does not

@@ -106,3 +106,35 @@ Covered the CISSP 8 security domains in depth:
    design, development, and deployment phases
 
 Self-assessed via quiz - strong understanding across all 8 domains.
+
+
+**Day 7 - 4th July, 2026**
+
+Completed Module 1 - Security Domains (Course 2).
+Graded challenge score: 92.5%.
+
+Key takeaways:
+- Threat vs Risk: a threat is any event that can negatively impact 
+  assets; a risk is the likelihood of that threat occurring
+- Assets categorized as low, medium, or high risk based on impact
+- Ransomware encrypts data and demands payment, can fully paralyze 
+  an organization
+- Web layers: surface web, deep web, dark web
+- Dark web used by threat actors to leak and sell stolen PII
+- Three key impacts of attacks: financial, identity theft, 
+  reputational damage
+- NIST RMF 7 steps: Prepare, Categorize, Select, Implement, 
+  Assess, Authorize, Monitor
+
+Lab Setup:
+- Kali Linux VM successfully set up on VirtualBox
+- Ready for hands-on hacking practice going forward
+
+OverTheWire Bandit - Completed Levels 0, 1, and 2.
+- Level 0: SSH connection basics
+- Level 1: Reading files with special character names using ./
+- Level 2: Reading files with spaces in filename using quotes
+
+TryHackMe Pre-Security path paused — free tier rooms exhausted.
+Alternatives to be explored. OverTheWire Bandit adopted as the 
+primary hands-on Linux platform for now.

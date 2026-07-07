@@ -39,3 +39,35 @@ OverTheWire Bandit — Levels 3 to 6 completed.
   for passwords, config files, and SSH keys on compromised systems
 
 Bandit notes documented in bandit-notes.md
+
+
+**Day 2 — 7th July, 2026**
+
+Course 2 Module 2 completed — OWASP Principles and Security Audit.
+
+OWASP Principles covered:
+- Minimize attack surface area — reduce all potential vulnerabilities 
+  and pathways attackers could exploit
+- Least privilege — users get minimum access needed for their role
+- Defense in depth — multiple layered security controls (MFA, 
+  firewalls, IDS, permissions)
+- Separation of duties — no single person should have enough 
+  privileges to misuse the system
+- Keep security simple — avoid unnecessarily complicated solutions 
+  that become unmanageable
+- Fix security issues correctly — identify root cause, fix 
+  vulnerabilities, test repairs
+
+Portfolio Activity — Botium Toys Security Audit completed.
+Conducted a full controls and compliance assessment for a fictional 
+company including:
+- Controls assessment: identified missing controls including least 
+  privilege, encryption, IDS, backups, disaster recovery plans
+- Compliance assessment: PCI DSS, GDPR, SOC — identified gaps 
+  in data protection and access management
+- Recommendations: enforce least privilege, implement encryption, 
+  deploy IDS, establish backup and disaster recovery plans, 
+  ensure regulatory compliance for international expansion
+
+Note: Concepts are being retained well. Listed recall improves 
+with reference triggers — normal at this stage of learning.

@@ -82,3 +82,22 @@ find / -user bandit7 -group bandit6 -type f 2>/dev/null
 **Real world use:** On a compromised system, this exact 
 pattern is used to hunt for password files, config files, 
 and SSH keys while suppressing noise
+
+## Level 7
+**Goal:** Find password next to the word "millionth" in data.txt
+**Command:**
+grep "millionth" data.txt
+**Concept:** grep searches through file contents for a specific 
+pattern and returns matching lines
+**Real world use:** Hunting through log files for suspicious 
+activity, failed logins, specific IP addresses, or error messages
+
+## Level 8
+**Goal:** Find the password that appears only once in data.txt
+**Command:**
+sort data.txt | uniq -u
+**Concept:** sort groups identical lines together, uniq -u filters 
+to show only lines appearing exactly once. Must sort before uniq 
+for it to work correctly.
+**Real world use:** Finding unique events in log files among 
+thousands of repeated entries — essential for anomaly detection

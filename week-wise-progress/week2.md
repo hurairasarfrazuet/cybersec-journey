@@ -71,3 +71,48 @@ company including:
 
 Note: Concepts are being retained well. Listed recall improves 
 with reference triggers — normal at this stage of learning.
+
+
+**Day 3 — 9th July, 2026**
+
+Course 2 Module 3 completed — Introduction to Cybersecurity Tools.
+Graded challenge score: 93.75%. Submitted before deadline.
+
+OverTheWire Bandit — Levels 7 and 8 completed.
+
+Level 7:
+- Goal: Find password next to the word "millionth" in data.txt
+- Command: grep millionth data.txt
+- Concept: grep searches file contents for specific patterns
+- Real world use: Hunting through log files for suspicious 
+  activity, failed logins, or specific IP addresses
+
+Level 8:
+- Goal: Find the password that appears only once in data.txt
+- Command: sort data.txt | uniq -u
+- Concept: sort groups identical lines, uniq -u shows only 
+  lines appearing exactly once. Must sort before uniq.
+- Real world use: Finding unique anomalous events among 
+  thousands of repeated log entries
+
+Key takeaways:
+- Three common log sources:
+  - Firewall logs: incoming/outgoing connection attempts
+  - Network logs: devices entering/leaving network, 
+    connections between services
+  - Server logs: events related to websites, emails, 
+    file shares including login and username requests
+- SIEM tools centralize, analyze and visualize log data 
+  from multiple sources
+- SIEM dashboards provide visual representations of 
+  security events and metrics like response time, 
+  availability, and failure rate
+- Metrics help stakeholders assess performance of 
+  security systems
+- Connected SIEM outage scenario directly to CIA triad — 
+  outage = Availability violation
+- SIEM tools can support automated response actions 
+  like blocking suspicious IPs
+
+Note: Starting to connect concepts across topics naturally 
+rather than treating them in isolation.

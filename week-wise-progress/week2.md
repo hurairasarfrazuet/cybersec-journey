@@ -116,3 +116,27 @@ Key takeaways:
 
 Note: Starting to connect concepts across topics naturally 
 rather than treating them in isolation.
+
+**Day 4 — 10th July, 2026**
+
+Course 2 - Play It Safe: Manage Security Risks — COMPLETE.
+Module 4 graded challenge score: 100%.
+
+Key takeaways:
+- Incident response is an organization's quick attempt to 
+  identify, contain, and correct the effects of a security breach
+- Incident Response Playbook has 6 phases:
+  1. Preparation - documenting procedures, staffing plans, 
+     user education
+  2. Detection and Analysis - detect and analyze events using 
+     defined processes and technology
+  3. Containment - prevent further damage and reduce immediate 
+     impact
+  4. Eradication and Recovery - remove malicious code, mitigate 
+     vulnerabilities, restore environment to secure state
+  5. Post-Incident Activity - document incident, inform leadership, 
+     apply lessons learned
+  6. Coordination - report incidents and share information 
+     throughout the response process
+
+Bandit: Levels 7 and 8 complete. Level 9 postponed to tomorrow.

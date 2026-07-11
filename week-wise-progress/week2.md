@@ -140,3 +140,39 @@ Key takeaways:
      throughout the response process
 
 Bandit: Levels 7 and 8 complete. Level 9 postponed to tomorrow.
+
+**Day 5 — 11th July, 2026**
+
+Course 3 started — Connect and Protect: Networks and 
+Network Security.
+Module 1 - Network Architecture — sections 1 and 2 completed.
+
+Key takeaways:
+- Network: collection of devices connected through a medium 
+  to communicate. Types: LAN and WAN
+- Hub: sends packets to all connected devices
+- Switch: smart enough to send packets to destination device 
+  only — improves performance
+- Router: connects multiple networks together
+- TCP/IP model 4 layers: Network Access, Internet, 
+  Transport, Application
+- OSI model: 7 layer theoretical framework used for 
+  troubleshooting — more granular than TCP/IP
+- IP address: logical address that can change, gets data 
+  to the right network (IPv4 and IPv6)
+- MAC address: permanent hardware ID burned into NIC, 
+  gets data to the right device within a network
+- MAC can be spoofed, IP can be traced — both critical 
+  concepts in offensive and defensive security
+
+TryHackMe - Linux Fundamentals Part 1 completed (free room).
+- Covered core commands: ls, cd, cat, grep, find
+- Operators: & (background), && (chain if success), 
+  > (overwrite), >> (append)
+- Formally reinforced commands already practiced on Bandit — 
+  practical experience first, theory second
+
+Bandit Level 9 — pending, tomorrow priority.
+
+Also completed: Python for Everybody Course 1 
+(University of Michigan, Coursera) — ahead of roadmap schedule.

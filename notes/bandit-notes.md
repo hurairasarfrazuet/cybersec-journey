@@ -101,3 +101,15 @@ to show only lines appearing exactly once. Must sort before uniq
 for it to work correctly.
 **Real world use:** Finding unique events in log files among 
 thousands of repeated entries — essential for anomaly detection
+
+## Level 9
+**Goal:** Find human readable strings in data.txt preceded 
+by = characters
+**Command:**
+strings data.txt | grep '='
+**Concept:** strings extracts human readable text from binary 
+files. grep '=' filters for lines containing = character.
+^ anchor means "starts with" — removing it matches = anywhere 
+in the line
+**Real world use:** Extracting readable content from binary 
+files during forensic investigation or malware analysis

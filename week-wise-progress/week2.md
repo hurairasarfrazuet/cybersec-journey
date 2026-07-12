@@ -176,3 +176,35 @@ Bandit Level 9 — pending, tomorrow priority.
 
 Also completed: Python for Everybody Course 1 
 (University of Michigan, Coursera) — ahead of roadmap schedule.
+
+
+**Day 6 — 12th July, 2026**
+
+Course 3 Module 1 - Network Architecture — fully completed.
+Graded challenge: 100% (3rd attempt — learned to read 
+questions carefully instead of skimming).
+
+Key takeaways:
+- LAN: local network within one building/organization
+- WAN: wide area network spanning large geographic distances, 
+  internet is the largest WAN
+- TCP/IP 4 layers and their roles:
+  - Application: prepares data from user applications
+  - Transport: breaks data into segments, adds port numbers, 
+    ensures reliable delivery
+  - Internet: adds IP addresses, handles routing between networks
+  - Network Access: physical transmission, adds MAC addresses
+- Public IP: assigned by ISP, shared by all devices on same 
+  network via router translation (NAT)
+- Private IP ranges: 10.0.0.0, 172.16.0.0, 192.168.0.0
+- MAC address: permanent hardware ID, used for device 
+  identification within local network
+- MAC can be spoofed, used in ARP poisoning attacks
+
+OverTheWire Bandit - Level 9 completed.
+- Command: strings data.txt | grep '='
+- strings extracts human readable content from binary files
+- ^ anchor in regex means "starts with" — removing it 
+  matches pattern anywhere in line
+- Real world use: extracting readable content from binary 
+  files during forensic investigation

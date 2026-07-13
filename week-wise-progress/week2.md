@@ -208,3 +208,21 @@ OverTheWire Bandit - Level 9 completed.
   matches pattern anywhere in line
 - Real world use: extracting readable content from binary 
   files during forensic investigation
+
+
+**Day 7 — 13th July, 2026**
+
+Course 3 Module 2 - Network Operations — partially completed.
+Covered up to security zones section.
+
+Key concepts encountered:
+- Network protocols and their roles across TCP/IP layers
+- DNS, HTTP/HTTPS, TCP, UDP, IP, ARP, ICMP protocols
+- Each protocol is a potential attack surface:
+  - DNS spoofing, ARP poisoning, SYN floods, ICMP ping sweeps
+- Started security zones section
+
+Note: Module 2 is significantly denser than previous modules.
+Continuing tomorrow.
+
+Bandit Level 10 — pending tomorrow.

@@ -113,3 +113,19 @@ files. grep '=' filters for lines containing = character.
 in the line
 **Real world use:** Extracting readable content from binary 
 files during forensic investigation or malware analysis
+
+## Level 10
+**Goal:** Decode a base64 encoded password in data.txt
+**Command:**
+base64 -d data.txt
+**Concept:** Using the `-d` flag with `base64` to decode encrypted strings back into plain text.
+**Real world use:** Attackers often use base64 encoding to obfuscate malicious payloads or hide data being exfiltrated from a network.
+
+---
+
+## Level 11
+**Goal:** Recover a password encrypted with ROT13 from data.txt
+**Command:**
+cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+**Concept:** Using `tr` (translate) to replace characters. ROT13 shifts the alphabet by 13 places; this command shifts the first half of the alphabet to the second half and vice versa to reverse the cipher.
+**Real world use:** `tr` is useful for fast string manipulation, sanitizing inputs, or breaking simple obfuscation techniques found in entry-level CTFs and basic malware analysis.

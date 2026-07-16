@@ -47,3 +47,34 @@ Remaining in Module 3:
 - Module challenge 3 (graded, 50 min) — pending
 
 Bandit Level 12 — starting now.
+
+**Day 2 — 15th July, 2026**
+
+Course 3 Module 3 - Secure Against Network Intrusion — COMPLETE.
+
+Covered:
+- Introduction to network intrusion tactics
+- Secure networks against Denial of Service (DoS) attacks
+  - Activity: Analyze network layer communication — Grade: 100%
+  - Test your knowledge: Secure networks against DoS attacks — Grade: 100%
+- Network attack tactics and defense
+  - Malicious packet sniffing
+  - IP spoofing
+  - DoS attack types and prevention methods
+  - Activity: Analyzing logs during a DoS attack
+- Module challenge 3 completed
+
+Key takeaways:
+- Packet sniffing captures traffic passing through a network,
+  which attackers use to intercept unencrypted data such as
+  credentials or session tokens
+- IP spoofing involves forging the source IP address in a packet
+  to disguise the attacker's identity or impersonate a trusted host
+- DoS attacks come in multiple forms (e.g. flooding, resource
+  exhaustion) — prevention relies on rate limiting, firewalls,
+  and traffic filtering
+- Reviewing logs during a live DoS attack helps identify the
+  attack signature (repeated requests, unusual source patterns)
+  and supports faster containment
+
+Bandit Level 12 — completed today.

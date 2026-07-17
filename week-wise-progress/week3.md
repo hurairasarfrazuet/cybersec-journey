@@ -78,3 +78,50 @@ Key takeaways:
   and supports faster containment
 
 Bandit Level 12 — completed today.
+
+
+**Day 3 — 16th July, 2026**
+
+Course 3 Module 4 - Security Hardening — in progress.
+
+Completed:
+- Introduction to security hardening
+- OS hardening
+  - Activity: Apply OS hardening techniques — Grade: 100%
+  - Test your knowledge: OS hardening — Grade: 100%
+- Network hardening
+  - Activity: Analysis of network hardening — Grade: 100%
+  - Test your knowledge: Network hardening — Grade: 100%
+
+Key takeaways:
+- OS hardening reduces attack surface through brute force attack
+  prevention, regular patch updates, and encryption using latest
+  standards
+- Network hardening covers port filtering, network access
+  privileges, and encryption over networks
+- Some hardening tasks are one-time setup (initial config),
+  while others are ongoing — firewall rule maintenance, network
+  log analysis, patch updates, and server backups
+- Network log analysis = examining logs to identify events of
+  interest, tying back to earlier log source concepts (firewall,
+  network, server logs)
+- Covered core network defense tools: firewalls, IPS (Intrusion
+  Prevention Systems), IDS (Intrusion Detection Systems), and
+  network segmentation
+
+**Hands-on practice (outside coursework):**
+- Used Wireshark to perform packet sniffing on home WiFi network
+- Used Ettercap to intercept and view data packets flowing between
+  PC and laptop on the same network (MITM-style traffic capture)
+- Captured and analyzed the resulting data packets in Wireshark
+
+Key takeaways:
+- Wireshark captures live network traffic and breaks it down
+  packet-by-packet, showing protocol headers, source/destination
+  addresses, and payload data
+- Ettercap can position a device between two hosts on a LAN to
+  intercept traffic passing between them, demonstrating in practice
+  why unencrypted traffic and unsegmented networks are risky
+- Direct hands-on reinforcement of network hardening theory covered
+  this session — seeing sniffed/intercepted traffic first-hand makes
+  the case for encryption and network segmentation concrete

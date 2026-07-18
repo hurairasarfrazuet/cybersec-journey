@@ -125,3 +125,61 @@ Key takeaways:
 - Direct hands-on reinforcement of network hardening theory covered
   this session — seeing sniffed/intercepted traffic first-hand makes
   the case for encryption and network segmentation concrete
+
+
+**Day 4 — 17th July, 2026**
+
+Course 3 Module 4 - Security Hardening — COMPLETE.
+Course 3 - Connect and Protect: Networks and Network Security — COMPLETE.
+
+Completed today:
+- Cloud hardening (network security in the cloud, cryptography
+  and cloud security, test your knowledge)
+- Review: Coach dialogue on reinforcing system hardening and
+  vulnerability defense, wrap-up, glossary terms
+- Module 4 challenge (graded)
+- Portfolio activity: Use the NIST Cybersecurity Framework to
+  respond to a security incident (graded)
+
+Key takeaways:
+- Cloud hardening extends the same hardening principles (access
+  control, encryption, monitoring) to cloud-hosted infrastructure,
+  with added focus on cloud-specific misconfigurations
+- Cryptography plays a central role in cloud security — encrypting
+  data at rest and in transit across cloud services
+- Applied the NIST CSF (Govern, Identify, Protect, Detect, Respond,
+  Recover) in a practical portfolio scenario, mapping each function
+  to concrete response actions during a simulated security incident
+- Full module tied together OS, network, and cloud hardening as
+  layered defense — reinforcing the "defense in depth" principle
+  from earlier OWASP coverage
+
+**Course 3 complete.** Covers network architecture, protocols,
+network operations, security zones, DoS/intrusion defense, and
+full-spectrum hardening (OS, network, cloud). Next: Course 4.
+
+**Self-Review Quiz — Course 3 Full Review (Scenario-Based)**
+
+Tested understanding across 4 scenario-based questions covering
+the full span of Course 3:
+
+1. **Network Architecture** — Correctly identified a same-subnet
+   connectivity issue as a switch-level problem, not a routing
+   issue, based on where switches vs. routers operate.
+2. **DoS vs. DDoS** — Correctly identified a multi-source attack
+   as DDoS and explained why distributed sources make detection
+   and IP-blocking far harder for defenders.
+3. **Packet Sniffing & Encryption** — Correctly identified HTTP
+   traffic as readable in plaintext vs. HTTPS traffic protected by
+   SSL/TLS encryption. Also independently identified that metadata
+   (source/destination IPs, packet timing/size) still leaks even
+   over encrypted connections.
+4. **Incident Response** — Correctly identified isolating infected
+   machines as the Containment phase, and explained why it's kept
+   separate from Eradication/Recovery (stopping spread immediately
+   vs. thorough cleanup afterward).
+
+Result: 4/4 correct, with solid reasoning rather than just recall —
+particularly strong on connecting concepts across modules (e.g.
+tying encryption back to earlier network hardening, tying Ettercap/
+Wireshark hands-on practice back to real packet sniffing risk).

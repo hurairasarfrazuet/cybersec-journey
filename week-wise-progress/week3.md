@@ -183,3 +183,28 @@ Result: 4/4 correct, with solid reasoning rather than just recall —
 particularly strong on connecting concepts across modules (e.g.
 tying encryption back to earlier network hardening, tying Ettercap/
 Wireshark hands-on practice back to real packet sniffing risk).
+
+**Day 5 — 20th July, 2026**
+
+Course 4 - Tools of the Trade: Linux and SQL — started.
+Module 1: The wonderful world of operating systems — COMPLETE.
+
+Covered:
+- Course 4 overview and orientation
+- Introduction to operating systems, comparing OS types
+- How the OS handles requests and allocates resources
+- Virtualization technology
+- GUI vs CLI
+- Module 1 challenge
+
+Key takeaways:
+- An operating system manages hardware resources and mediates
+  requests between applications and hardware (CPU, memory, storage)
+- Virtualization allows a single physical machine to run multiple
+  isolated operating systems — directly relevant to my Kali Linux
+  VM setup on VirtualBox
+- GUI vs CLI: GUI relies on visual elements for interaction, CLI
+  relies on typed commands — CLI offers more precision and
+  automation potential, which is why it's central to security work
+- Connected virtualization theory directly to my own lab setup
+  (Kali VM + Windows VM on VirtualBox)

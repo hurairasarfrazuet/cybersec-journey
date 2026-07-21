@@ -208,3 +208,30 @@ Key takeaways:
   automation potential, which is why it's central to security work
 - Connected virtualization theory directly to my own lab setup
   (Kali VM + Windows VM on VirtualBox)
+
+  **Day — 21st July, 2026**
+
+Course 4 Module 2: The Linux operating system — in progress.
+
+Completed:
+- All about Linux (introduction, Linux architecture)
+  - Test your knowledge: All about Linux — Grade: 100%
+- Linux distributions (overview, Kali Linux, package managers,
+  lab resources and troubleshooting tips)
+  - Activity: Install software in a Linux distribution
+  - Test your knowledge: Linux distributions — Grade: 100%
+
+Key takeaways:
+- Linux architecture layered top to bottom: applications → shell
+  (interface to interact with the OS) → kernel (core, manages
+  hardware/resources) → hardware
+- Two major distro families:
+  - **Debian-based**: Ubuntu, Kali, Parrot, Tails
+  - **Red Hat-based**: Red Hat itself
+- Package management differs by family:
+  - Debian family uses `dpkg` as the underlying package manager,
+    with `apt` as the higher-level management system
+  - Red Hat family uses `rpm` as the underlying package manager,
+    with `yum` as the higher-level management system
+- Directly applicable since my own Kali VM is Debian-based —
+  meaning `apt`/`dpkg` are the tools I'll actually be using

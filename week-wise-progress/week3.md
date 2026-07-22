@@ -209,7 +209,7 @@ Key takeaways:
 - Connected virtualization theory directly to my own lab setup
   (Kali VM + Windows VM on VirtualBox)
 
-  **Day — 21st July, 2026**
+  **Day 6 — 21st July, 2026**
 
 Course 4 Module 2: The Linux operating system — in progress.
 
@@ -235,3 +235,30 @@ Key takeaways:
     with `yum` as the higher-level management system
 - Directly applicable since my own Kali VM is Debian-based —
   meaning `apt`/`dpkg` are the tools I'll actually be using
+
+
+**Day 7 — 22nd July, 2026**
+
+Course 4 Module 2: The Linux operating system — COMPLETE.
+
+Completed today:
+- The shell (types of shells, input and output in the shell)
+- Test your knowledge: The shell
+- Review: wrap-up, glossary terms
+- Module 2 challenge (graded, 45 min)
+
+Key takeaways:
+- Different shell types exist (e.g., Bash, sh, zsh) — Bash is the
+  most common default on Linux distributions including Kali
+- The shell handles input (commands typed by the user) and output
+  (results returned to the terminal), acting as the interface layer
+  between the user and the kernel
+- Ties together the full Module 2 architecture picture: applications
+  → shell → kernel → hardware, plus how distros (Debian/Red Hat
+  families) and their package managers (apt/dpkg, yum/rpm) fit
+  into that same layered model
+
+**Module 2 complete.** Covers Linux architecture, distributions,
+package management, and the shell — solid foundation heading into
+Module 3 (navigating the Linux file system), which overlaps heavily
+with Bandit experience.

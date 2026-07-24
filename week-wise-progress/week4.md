@@ -26,3 +26,27 @@ Key takeaways:
   mv) covered as a natural extension of navigation and reading
 - Strong overlap between coursework and Bandit levels completed
   so far — theory catching up to practice rather than the reverse
+
+**Day 2 — 24th July, 2026**
+
+Course 4 Module 3: Navigate the Linux file system — in progress.
+
+Completed:
+- Authenticate and authorize users
+  - File permissions and ownership, changing permissions
+  - Portfolio Activity: Use Linux commands to manage file
+    permissions (graded)
+  - Adding and deleting users, responsible use of sudo
+  - Test your knowledge: Authenticate and authorize users
+
+Key takeaways:
+- File permissions follow the read/write/execute model across
+  owner, group, and others — represented numerically (e.g., 755)
+  or symbolically (rwxr-xr-x)
+- chmod changes permissions, chown changes ownership — both
+  central to securing files against unauthorized access
+- User management (useradd, userdel, passwd) and sudo control who
+  can act as a privileged user — responsible sudo use means only
+  escalating privileges when necessary, not working as root by default
+- Direct connection to earlier Bandit levels where permission
+  checks and file ownership determined which files were readable

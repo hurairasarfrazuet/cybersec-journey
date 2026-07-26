@@ -95,3 +95,37 @@ help — directly reinforced by ongoing Bandit practice.
 
 **Module 4 started** — new territory (SQL), first real shift away
 from command-line/Linux-only content in this course.
+
+
+**Day 4 — 26th July, 2026**
+
+Course 4 Module 4: SQL and Databases — in progress.
+
+Completed:
+- SQL queries
+  - Basic queries, running a query against a database
+  - Activity: Perform a SQL query
+  - Test your knowledge: SQL queries
+- More SQL filters
+  - Filtering dates and numbers
+  - Filters with AND, OR, and NOT
+  - Portfolio Activity: Apply filters to SQL queries (graded)
+  - Test your knowledge: More SQL filters
+
+Key takeaways:
+- SQL queries follow a SELECT ... FROM ... WHERE structure to
+  pull specific data from a table
+- The WHERE clause filters rows based on conditions — comparable
+  in purpose to grep filtering text, but operating on structured
+  columns/rows instead of raw text
+- Date and number filters use comparison operators (>, <, =, BETWEEN)
+  to narrow results by ranges
+- AND/OR/NOT combine or exclude multiple conditions in a single
+  query — AND narrows (all conditions true), OR broadens (any
+  condition true), NOT excludes matches
+
+Remaining in Module 4:
+- SQL joins (types of joins, Activity: Complete a join, Test your
+  knowledge: SQL joins)
+- Review: coach dialogue, wrap-up, glossary, Module 4 challenge
+  (graded, 50 min) — completes Course 4

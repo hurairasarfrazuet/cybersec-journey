@@ -129,3 +129,24 @@ Remaining in Module 4:
   knowledge: SQL joins)
 - Review: coach dialogue, wrap-up, glossary, Module 4 challenge
   (graded, 50 min) — completes Course 4
+
+  **Day 6 — 28th July, 2026**
+
+Course 5 Module 1: Introduction to Asset Security — COMPLETE.
+
+Completed today:
+- What, Why, and How of cybersecurity (assets, threats, vulnerabilities)
+- Risk = Likelihood × Impact; security teams focus on reducing attack surface
+- Categories of threats: intentional vs. unintentional
+- Categories of vulnerabilities: technical vs. human
+- Security plans: policies, standards, procedures
+- NIST CSF: three components (core, tiers, profile); six core functions (govern, identify, protect, detect, respond, recover)
+- CISA's implementation guidance for the NIST CSF
+
+Key takeaways:
+- Risk sits at the intersection of threat and vulnerability — assets define *what* is protected, threats explain *why* protection is needed, and lowering vulnerability is *how* risk gets reduced
+- Threats split into intentional (malicious actors) and unintentional (human error) categories; vulnerabilities split into technical (misconfigurations) and human (lost access cards) — either path can escalate into risk
+- The NIST CSF profile works like a progress snapshot — comparing current security posture against an earlier point in time, similar to tracking a tree's growth
+- CISA's four-step approach (build a profile → risk assessment → gap analysis → plan of action) turns an otherwise abstract framework into something concrete to act on
+
+Next: Course 5 Module 2 (Protect organizational assets).

@@ -150,3 +150,27 @@ Key takeaways:
 - CISA's four-step approach (build a profile → risk assessment → gap analysis → plan of action) turns an otherwise abstract framework into something concrete to act on
 
 Next: Course 5 Module 2 (Protect organizational assets).
+
+
+**Day 7 — 29th July, 2026**
+
+Course 5 Module 2: Protect Organizational Assets — IN PROGRESS (Safeguard Information section complete).
+
+Completed today:
+- Security controls (overview)
+- Principle of least privilege
+- The data lifecycle
+- Information privacy: regulations and compliance
+- Heather: the importance of protecting PII
+- Activity: Determine appropriate data handling practices (Graded — 100%)
+- Test your knowledge: Safeguard information (Graded — 100%)
+
+Key takeaways:
+- Security controls exist to reduce risk to an acceptable level; the principle of least privilege limits access strictly to what's needed for a role, shrinking the attack surface
+- The data lifecycle (collect, use, store, share, archive/destroy) shows that data needs protection at every stage, not just at rest
+- Privacy regulations (e.g. GDPR-style compliance concepts) exist because PII carries real legal and ethical weight if mishandled — protecting it isn't optional, it's a compliance requirement
+- Data handling practices differ by data sensitivity — deciding what to encrypt, restrict, or dispose of depends on classifying the data first
+
+Remaining in Module 2: Fundamentals of cryptography, public key infrastructure, symmetric/asymmetric encryption, hashing, access controls & authentication (SSO/MFA), authorization, auditing, wrap-up, and the Module 2 challenge (due Aug 4).
+
+Next: Continue Module 2 — cryptography section.

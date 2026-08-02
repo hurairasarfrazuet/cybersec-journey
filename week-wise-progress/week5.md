@@ -63,3 +63,32 @@ Key takeaways:
 Remaining in Module 3: vulnerability scanning types in more depth, wrap-up, and the Module 3 challenge.
 
 Next: Continue Module 3.
+
+
+**Week 5, Day 3 — 2nd August, 2026**
+
+Course 5 Module 3: Vulnerabilities in Systems — COMPLETE.
+
+Completed today:
+- Cyber attacker mindset
+  - Protect all entry points
+  - Approach cybersecurity with an attacker mindset
+  - Types of threat actors
+  - Pathways through defenses
+  - Self-reflection: Approach cybersecurity with an attacker mindset (Graded — 100%)
+  - Fortify against brute force cyber attacks
+  - Activity: Identify the attack vectors of a USB drive (Graded — 100%)
+  - Test your knowledge: Cyber attacker mindset (Graded — 100%)
+- Review: Vulnerabilities in systems
+  - Wrap-up, glossary terms
+  - Module 3 challenge (Graded — 90%)
+
+Key takeaways:
+- Thinking like an attacker means treating every entry point — physical, digital, even a dropped USB drive — as a potential pathway in, not just the obvious network-facing ones
+- Threat actors vary widely (script kiddies, hacktivists, insider threats, nation-states, organized crime, etc.), and their motives shape which assets they target and how
+- Brute forcing is a numbers game attackers automate rather than do by hand — tools like Aircrack-ng, Hashcat, John the Ripper, Ophcrack, and THC Hydra each specialize in different attack surfaces (Wi-Fi, password hashes, etc.), and security professionals use the same tools defensively to test their own systems
+- A dropped USB drive is a classic social engineering vector — the exploit isn't technical at all, it relies on human curiosity to bypass every technical control in place
+
+**Course 5, Module 3 complete.** Covered the full vulnerability management lifecycle — CVE, OWASP Top 10, OSINT, vulnerability assessments and scanning, penetration testing fundamentals — capped off with building the attacker mindset needed to actually think through how those vulnerabilities get exploited in practice.
+
+Next: Course 5 Module 4 (Threats to asset security).

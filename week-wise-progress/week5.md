@@ -92,3 +92,36 @@ Key takeaways:
 **Course 5, Module 3 complete.** Covered the full vulnerability management lifecycle — CVE, OWASP Top 10, OSINT, vulnerability assessments and scanning, penetration testing fundamentals — capped off with building the attacker mindset needed to actually think through how those vulnerabilities get exploited in practice.
 
 Next: Course 5 Module 4 (Threats to asset security).
+
+
+**Week 5, Day 4 — 4th August, 2026**
+
+Course 5 Module 4: Threats to Asset Security — IN PROGRESS.
+
+Completed today:
+- Social engineering
+  - The criminal art of persuasion
+  - Social engineering tactics
+  - Phishing for information
+  - Types of phishing
+  - Test your knowledge: Social engineering (Graded — 100%)
+  - Activity: Filter malicious emails (Graded — 100%)
+- Malicious software
+  - An introduction to malware
+  - The rise of cryptojacking
+  - Test your knowledge: Malware (Graded — 100%)
+- Web-based exploits
+  - Cross-site scripting (XSS)
+  - Exploitable gaps in databases
+  - Prevent injection attacks
+  - Test your knowledge: Web-based exploits (Graded — 100%)
+
+Key takeaways:
+- Social engineering succeeds by exploiting human psychology (urgency, authority, trust) rather than technical flaws — phishing has several distinct forms (spear phishing, whaling, vishing, smishing) each targeting the same weakness through a different channel
+- Malware isn't one thing — cryptojacking specifically hijacks a victim's processing power for mining rather than stealing data outright, showing that not every compromise is about data theft
+- XSS attacks inject malicious scripts that run in a victim's browser via a trusted site, while injection attacks (like SQL injection) target the database layer directly — both stem from the same root problem: failing to properly validate or sanitize user input
+- Prevention for injection-style attacks centers on input validation and sanitization — treating anything a user submits as untrusted until proven otherwise
+
+Remaining in Module 4: further threat topics, wrap-up, and the Module 4 challenge (final module of Course 5).
+
+Next: Continue Module 4.

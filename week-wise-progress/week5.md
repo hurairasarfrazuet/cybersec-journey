@@ -116,11 +116,16 @@ Completed today:
   - Prevent injection attacks
   - Test your knowledge: Web-based exploits (Graded — 100%)
 
+- Completed Bandit Level 12 today. Worked through decompressing a file through multiple layers using gzip, bzip2, and tar, and used hexdump to revert hex-encoded data back to its original form.
+
 Key takeaways:
 - Social engineering succeeds by exploiting human psychology (urgency, authority, trust) rather than technical flaws — phishing has several distinct forms (spear phishing, whaling, vishing, smishing) each targeting the same weakness through a different channel
 - Malware isn't one thing — cryptojacking specifically hijacks a victim's processing power for mining rather than stealing data outright, showing that not every compromise is about data theft
 - XSS attacks inject malicious scripts that run in a victim's browser via a trusted site, while injection attacks (like SQL injection) target the database layer directly — both stem from the same root problem: failing to properly validate or sanitize user input
 - Prevention for injection-style attacks centers on input validation and sanitization — treating anything a user submits as untrusted until proven otherwise
+- Real-world files are often compressed or encoded in multiple nested layers — identifying each file type (via tools like `file`) before deciding how to unwrap it is the key skill, not any single decompression command
+- Hexdump reversal shows how data can be represented at different levels (hex, binary, plaintext) and reinforces why understanding file formats and encodings matters when analyzing unknown or suspicious files — directly relevant to malware/artifact analysis
+Next: Bandit Level 13; continue Course 5 Module 4 (remaining threat topics, wrap-up, and Module 4 challenge).
 
 Remaining in Module 4: further threat topics, wrap-up, and the Module 4 challenge (final module of Course 5).
 

@@ -130,3 +130,38 @@ Next: Bandit Level 13; continue Course 5 Module 4 (remaining threat topics, wrap
 Remaining in Module 4: further threat topics, wrap-up, and the Module 4 challenge (final module of Course 5).
 
 Next: Continue Module 4.
+
+
+**Week 5, Day 6 — 5th August, 2026**
+
+Course 5 Module 4: Threats to Asset Security — COMPLETE.
+Course 5 — Assets, Threats, and Vulnerabilities — COMPLETE.
+
+Completed today:
+- Threat modeling
+  - A proactive approach to security
+  - Identify: Steps of the threat model process
+  - PASTA: The Process for Attack Simulation and Threat Analysis
+  - Traits of an effective threat model
+  - Explore: Apply PASTA to an application's threat model
+  - Activity: Apply the PASTA threat model framework (Graded — 100%)
+  - Test your knowledge: Threat modeling (Graded — 100%)
+- Review of course
+  - Coach dialogue: Enhance your threat identification skills
+  - Wrap-up, glossary terms from module 4
+  - Module 4 challenge (Graded — 100%)
+- Course wrap-up
+  - Reflect and connect with peers
+  - Course wrap-up video
+  - Course 5 glossary
+  - Get started on the next course
+
+Key takeaways:
+- Threat modeling is a proactive, six-step cycle (define scope → identify threats → characterize environment → analyze threats → mitigate risks → evaluate findings) — the "attack tree" idea in step 2 maps out every possible route an attacker could take, before anything is actually built or defended
+- PASTA is risk-centric and evidence-based, running through seven stages from business objectives down to risk/impact analysis — it's meant to ground threat modeling in real vulnerability data rather than theory
+- Different frameworks fit different needs: STRIDE (Microsoft, six attack vectors: spoofing, tampering, repudiation, info disclosure, DoS, privilege elevation) is developer-friendly, PASTA is risk-driven, Trike is security-permission-centric, and VAST is built for automation at scale — there's no single "correct" framework, only the one that fits the situation
+- The five core threat-modeling questions (what are we working on, what can go wrong, what are we doing about it, did we address everything, did we do a good job) are a simple checklist that applies regardless of which formal framework is used
+
+**Course 5 complete.** Covered the full arc from asset classification and the NIST CSF, through protecting assets (encryption, AAA), to vulnerabilities (CVE, OWASP Top 10, pen testing, attacker mindset), and finally threats (social engineering, malware, web exploits, and threat modeling) — a complete picture of how assets, threats, and vulnerabilities interact to create risk.
+
+Next: Course 6.

@@ -165,3 +165,38 @@ Key takeaways:
 **Course 5 complete.** Covered the full arc from asset classification and the NIST CSF, through protecting assets (encryption, AAA), to vulnerabilities (CVE, OWASP Top 10, pen testing, attacker mindset), and finally threats (social engineering, malware, web exploits, and threat modeling) — a complete picture of how assets, threats, and vulnerabilities interact to create risk.
 
 Next: Course 6.
+
+
+**Week 5, Day 7 — 6th August, 2026**
+
+Course 6 Module 1: Introduction to Detection and Incident Response — COMPLETE.
+
+Completed today:
+- Course 6 overview and helpful resources
+- The incident response lifecycle
+  - Introduction to the incident response lifecycle
+  - Explore: Apply the NIST lifecycle to a vishing scenario
+  - Portfolio Activity: Document an incident with an incident handler's journal (Graded — 100%)
+  - Test your knowledge: The incident response lifecycle (Graded — 100%)
+- Incident response operations
+  - Incident response teams; roles in response
+  - Incident response plans
+  - Test your knowledge: Incident response operations (Graded — 100%)
+- Incident response tools
+  - Documentation value; intrusion detection systems overview
+  - Test your knowledge: Detection and documentation tools (Graded — 100%)
+- Alert and event management with SIEM and SOAR tools
+  - Overview of SIEM technology
+  - Test your knowledge: Management tools (Graded — 100%)
+- Review: Module 1 wrap-up, glossary, Module 1 challenge (Graded — 100%)
+
+Key takeaways:
+- The NIST incident response lifecycle has four phases: preparation, detection and analysis, containment/eradication/recovery, and post-incident activity — this sits under the Detect/Respond/Recover side of the NIST CSF, as opposed to threat modeling (PASTA/STRIDE), which sits under Identify/Protect
+- A CSIRT (Computer Security Incident Response Team) is the specialized group trained to actually execute this lifecycle when an event occurs
+- Incident response tooling splits into three categories: detection and management tools, documentation tools, and investigative tools — and documentation itself takes multiple forms (playbooks, incident handler's journals, policies, plans, final reports)
+- Ticketing systems (e.g. Jira) exist specifically to coordinate cross-team collaboration during an incident — opening and closing tickets appropriately keeps the response auditable
+- IDS/IPS tools (Snort, Zeek, Kismet, Sagan, Suricata) generate alerts that fall into four detection categories: true positive, true negative, false positive, and false negative — false negatives are the most dangerous since they represent real, undetected attacks
+- EDR tools differ from IDS/IPS by focusing on endpoints specifically, using behavioral analysis (ML/AI-driven) to catch patterns rather than just signature-based detection, and can respond automatically without manual intervention
+- SOAR platforms layer automation on top of detection to actually respond to events, while SIEM tools (Splunk, IBM QRadar, LogRhythm, Chronicle, Elastic, Exabeam, AlienVault OSSIM, etc.) centralize alert and log data for analysis — SIEM detects and centralizes, SOAR acts
+
+Next: Course 6 Module 2 (Network monitoring and analysis).
